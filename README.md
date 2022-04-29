@@ -6,3 +6,5 @@ Planned Games:
 - rock, paper, scissors
 - coin flip
 - dice
+
+![logo](/enantion.png)
