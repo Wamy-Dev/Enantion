@@ -1,6 +1,6 @@
 # Enantion
 
-Discord minigame bot that you can either play against the bot or a friend, if you have one.
+Discord minigame bot that you can either play against the bot or a friend, if you have one. These are simple games that you can play in your freetime using Discord. Mostly an exercise and experimental project for myself. 
 
 <div align="center">
   <img src="/assets/enantion.png" height="200">
@@ -8,17 +8,17 @@ Discord minigame bot that you can either play against the bot or a friend, if yo
 
 # Games Available
 - Rock, Paper, Scissors
-> Command: >rps
+```>rps```
 - Guessing Game
-> Command: >guessing
+```>guessing```
 - Coinflip
-> Command: >coinflip
+```>coinflip```
 - Dice Game
-> Command: >dice
+```>dice```
 
-# Add to your own server
+# Add to your own server: ~~[Invite Enantion](https://github.com/Wamy-Dev/Enantion)~~ (Not available yet!)
 
-~~[Invite Enantion](https://github.com/Wamy-Dev/Enantion)~~ (Not available yet!)
+You may also choose to join my own server where I also put out updates and other fun things, [here](https://discord.gg/47SnjxgBFb).
 
 # How can I help?
 
